@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mkinf-io-mkinf-badge.png)](https://mseep.ai/app/mkinf-io-mkinf)
+
 # mkinf SDK
 ![PyPI - Version](https://img.shields.io/pypi/v/mkinf)
 
